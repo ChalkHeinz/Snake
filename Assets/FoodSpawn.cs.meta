@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8e97ab3d875824e419dc12f960c7dcc3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - foodPrefab: {fileID: 1011477969566396, guid: 6aae1c88c02a7435db6742d8fc00afc2,
+      type: 2}
+  - BorderTop: {fileID: 4083128866614766, guid: ebeef5e8af6bb461c87e3aaa008d198d,
+      type: 2}
+  - BorderBottom: {fileID: 4601336703600592, guid: b1f5baecb287e43f2b7306678edd42b2,
+      type: 2}
+  - BorderLeft: {fileID: 4148067441268884, guid: 2f8a33807b6534222b488240f3660ccd,
+      type: 2}
+  - BorderRight: {fileID: 4399297447110074, guid: d6914545bf13f4e4ab7af79685375f83,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

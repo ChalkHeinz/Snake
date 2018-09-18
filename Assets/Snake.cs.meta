@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 78b52fcd3dff14bd5adf899bf7244f2c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - TailPrefab: {fileID: 1911184596013206, guid: b41772c65802726438f44fca8a0c957c,
+      type: 2}
+  - BodyPrefab: {fileID: 1951157787226508, guid: 85c50e036afa10c48a542f94f6ef47fd,
+      type: 2}
+  - GameOverPrefab: {fileID: 1432886822216264, guid: 1c42f61ed917c4021b57f98b8f353457,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
